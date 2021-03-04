@@ -18,5 +18,12 @@
     "equal"
     ],
   "author": "Alexandre Ferris <ferris.alexandre@gmail.com> (https://github.com/alexandreferris)",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandreferris/isitequal"
+  },
+  "bugs": {
+    "url": "https://github.com/alexandreferris/isitequal/issues"
+  }
 }

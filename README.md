@@ -1,6 +1,9 @@
 # isitequal
 
-[![Project Size](https://img.shields.io/github/size/alexandreferris/isitequal)](https://github.com/alexandreferris/isitequal)
+[![Project Size](https://img.shields.io/github/size/alexandreferris/isitequal)](https://github.com/alexandreferris/isitequal) [![Project Downloads](https://img.shields.io/github/downloads/alexandreferris/isitequal/total)](https://github.com/alexandreferris/isitequal)
+
+
+
 
 ### Description
 Started with the idea to create an extension function for Any* objects to verify the equality of two Any* objects, such as:

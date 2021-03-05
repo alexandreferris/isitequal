@@ -1,6 +1,6 @@
 # isitequal
 
-[![Project Size](https://img.shields.io/github/size/alexandreferris/isitequal)](https://github.com/alexandreferris/isitequal) [![Project Downloads](https://img.shields.io/github/downloads/alexandreferris/isitequal/total)](https://github.com/alexandreferris/isitequal)
+[![Project Size](https://img.shields.io/github/repo-size/alexandreferris/isitequal)](https://www.npmjs.com/package/isitequal) [![Project Downloads](https://img.shields.io/npm/dt/isitequal)](https://www.npmjs.com/package/isitequal) [![Project License](https://img.shields.io/npm/l/isitequal)](https://www.npmjs.com/package/isitequal)
 
 
 
